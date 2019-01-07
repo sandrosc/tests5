@@ -2,6 +2,7 @@
   "markdownlint.config": {
     "MD002": {
       "level": 2
-    }
+    },
+    "MD034": false
   }
 }
