@@ -17,7 +17,7 @@ title: HSR tests overview
 
 - keine Unterlagen
 
-https://moodle.hsr.ch/course/view.php?id=1516&section=15
+<https://moodle.hsr.ch/course/view.php?id=1516&section=15>
 
 ## [Programmiersprachen und formale Methoden](https://moodle.hsr.ch/course/view.php?id=1432) (Di. 22. Januar, 10:30-12:30)
 
@@ -34,11 +34,21 @@ https://moodle.hsr.ch/course/view.php?id=1516&section=15
 
 ## [Application Architecture](https://skripte.hsr.ch/Informatik/Fachbereich/Application_Architecture/AppArch/2018/) (Di. 29. Januar, 08:10-10:10)
 
+- erlaubte Unterlagen: Open Book inklusive Lösungen zu den Übungsaufgaben
+- keine elektronischen Hilfsmittel
+- keine alten Prüfungen
+- keine Musterlösungen zu den alten Prüfungen
+
 ## [C++](https://skripte.hsr.ch/Informatik/Fachbereich/C++/CPl/) (Mi. 30. Januar, 15:10-17:10)
 
 - all paper documents are allowed except:
   - old exams and
   - exercises of old exams
-  - Slide from Lecture 14: https:files/exa_information.pdf
+
+<https://wiki.ifs.hsr.ch/CPlusPlus/files/15_c++_exam_preparation.pdf>
 
 ## [Wahrscheinlichkeitsrechnung und Statistik](https://moodle.hsr.ch/course/view.php?id=1483) (Fr. 01. Februar, 08:10-10:10)
+
+- Open Books, es können beliebige gedruckte oder handgeschriebene Hilfsmittel verwendet werden.
+- Taschenrechner.
+- Notebook-Computer sind nicht zulässig.
